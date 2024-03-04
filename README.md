@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there! I'm Cameron 👋🤖</h1>
 
 <h3 align="center">
-  I am a passionate Software Engineer with 4+ years of industry experience.
+  I'm a passionate Software Engineer with 4+ years of industry experience.
 </h3>
 
 <h3>
-  I have worked in Backend Microservices, Full-Stack & Mobile development across a variety of tech-stacks.
+  I've worked in Backend Microservices, Full-Stack & Mobile development across a variety of tech-stacks.
 </h3>
 
 <ul>
 <li>I build resilient & robust, highly-concurrent distributed systems & incorporate a Test-Driven Development (TDD) approach.</li>
-<li>I've worked at Startups as well as Corporate Agile environments.</li>
+<li>I've worked in Startups as well as Corporate Agile environments.</li>
 </ul>
 
 ## 👨‍💻 Languages:
