@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 </h3>
 
 <h3>
-  I have worked in Backend Micro-services, Full-Stack & Mobile development across a variety of tech-stacks.
+  I have worked in Backend Microservices, Full-Stack & Mobile development across a variety of tech-stacks.
 </h3>
 
 <ul>
 <li>I build resilient & robust, highly-concurrent distributed systems & incorporate a Test-Driven Development (TDD) approach.</li>
-<li>I've worked in Startups, as well as Backend in Corporate Agile environments.</li>
+<li>I've worked at Startups as well as Corporate Agile environments.</li>
 </ul>
 
 ## 👨‍💻 Languages:
