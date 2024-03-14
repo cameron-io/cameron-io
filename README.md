@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <ul>
 <li>I build resilient & robust applications, including concurrent distributed systems.</li>
-<li>I always enjoy the process of learning & implementing ever-evolving techniques, practices & engineering principles into my work..</li>
+<li>I strive to adapt to dynamic environments, to always remained solidified upon best practice engineering principles.</li>
 </ul>
 
 ## 👨‍💻 Languages:
