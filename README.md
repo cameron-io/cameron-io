@@ -19,13 +19,9 @@ Here are some ideas to get you started:
   I'm a passionate Software Engineer with 4+ years of industry experience.
 </h3>
 
-<h3>
-  I've worked in Backend Microservices, Full-Stack & Mobile development across a variety of tech-stacks.
-</h3>
-
 <ul>
-<li>I build resilient & robust, highly-concurrent distributed systems & incorporate a Test-Driven Development (TDD) approach.</li>
-<li>I've worked in Startups as well as Corporate Agile environments.</li>
+<li>I build resilient & robust applications, including concurrent distributed systems.</li>
+<li>I always enjoy the process of learning & implementing ever-evolving techniques, practices & engineering principles into my work..</li>
 </ul>
 
 ## 👨‍💻 Languages:
@@ -40,6 +36,7 @@ Here are some ideas to get you started:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.reactjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://www.erlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-plain.svg" alt="erlang" width="40" height="40"/> </a>
+  <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40"/> </a>
 </div>
 
 ## 🛠️ Tools:
