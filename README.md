@@ -20,19 +20,27 @@ Here are some ideas to get you started:
 </h3>
 
 <ul>
-<li>I build resilient & robust applications, including concurrent distributed systems.</li>
-<li>I strive to adapt to dynamic environments, to always remained solidified upon best practice engineering principles.</li>
+<li>I develop Full-Stack & Backend Microservice distributed systems.</li>
+<li>I strive to adapt to dynamic environments, to always build upon fundamental engineering principles.</li>
 </ul>
 
 ## 👨‍💻 Languages:
+
+### Backend:
 
 <div align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.erlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-plain.svg" alt="erlang" width="40" height="40"/> </a>
+</div>
+
+### Frontend:
+
+<div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.reactjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vitejs" width="40" height="40"/> </a>
 </div>
 
 ## 🛠️ Tools:
