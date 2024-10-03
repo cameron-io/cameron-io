@@ -28,18 +28,14 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <th>System</th>
-    <th>Backend</th>
+    <th>System | Backend</th>
     <th>Frontend</th>
   </tr>
   <tr>
   <td>
     <div>
+        <a href="https://rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/220px-Rustacean-orig-noshadow.svg.png" alt="rust" height="40"/> </a>
         <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> </a>
-    </div>
-  </td>
-  <td>
-    <div>
         <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
         <a href="https://openjdk.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
         <a href="https://www.nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
