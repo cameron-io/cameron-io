@@ -41,7 +41,7 @@ Here are some ideas to get you started:
     <div>
       <table>
         <tr>
-          <th>MVC / MVVM</th>
+          <th>Full-Stack</th>
           <th>Microservice</th>
         </tr>
         <tr>
@@ -49,13 +49,12 @@ Here are some ideas to get you started:
             <div>
                 <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
                 <a href="https://openjdk.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-                <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+                <a href="https://www.nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
             </div>
           </td>
           <td>
             <a href="https://www.erlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-plain.svg" alt="erlang" width="40" height="40"/> </a>
             <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40"/> </a>
-            <a href="https://www.nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
           </td>
         </tr>
       </table>
@@ -63,7 +62,6 @@ Here are some ideas to get you started:
   </td>
   <td>
     <div>
-      <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
       <a href="https://www.reactjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
       <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vitejs" width="40" height="40"/> </a>
