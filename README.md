@@ -16,13 +16,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there! I'm Cameron 👋🤖</h1>
 
 <h3 align="center">
-  I'm a passionate Software Engineer with 4+ years of industry experience.
+  I'm a passionate Software Engineer.
 </h3>
-
-<ul>
-<li>I develop Full-Stack & Backend Microservice distributed systems.</li>
-<li>I strive to adapt to dynamic environments, to always build upon fundamental engineering principles.</li>
-</ul>
 
 ## 👨‍💻 Languages:
 
