@@ -29,8 +29,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
   <td>
-    <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> </a>
-    <a href="https://rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/220px-Rustacean-orig-noshadow.svg.png" alt="rust" height="40"/> </a>
+    <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="67" height="67"/> </a>
   </td>
   <td>
     <div>
