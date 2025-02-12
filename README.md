@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
   <td>
-    <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="67" height="67"/> </a>
+    <a href="https://rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://miqh.gallerycdn.vsassets.io/extensions/miqh/vscode-language-rust/0.14.0/1536151476041/Microsoft.VisualStudio.Services.Icons.Default" alt="rust" width="50"/> </a>
   </td>
   <td>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40"/> </a>
