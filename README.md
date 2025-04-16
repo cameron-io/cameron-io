@@ -23,23 +23,24 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <th>System</th>
+    <th>Systems</th>
     <th>Backend</th>
     <th>Frontend</th>
   </tr>
   <tr>
   <td>
-    <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp"  width="40"/> </a>
+    <a href="https://gcc.gnu.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c"  height="40"/> </a>
+    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rust-lang/www.rust-lang.org/master/static/images/rust-social-wide-dark.svg" alt="cpp"  height="40"/> </a>
   </td>
   <td>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40"/> </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-    <a href="https://www.erlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-plain.svg" alt="erlang" width="40"/> </a>
-    <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40"/> </a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" height="40"/> </a>
+    <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="go" height="40"/> </a>
+    <a href="https://www.erlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-plain.svg" alt="erlang" height="40"/> </a>
+    <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" alt="elixir" height="40"/> </a>
   </td>
   <td>
-    <a href="https://www.reactjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40"/> </a>
-    <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vitejs" width="40"/> </a>
+    <a href="https://www.reactjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" height="40"/> </a>
+    <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vitejs" height="40"/> </a>
   </td>
   </tr>
 </table>
