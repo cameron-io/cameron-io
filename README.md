@@ -23,45 +23,20 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <th>System</th>
     <th>Backend</th>
     <th>Frontend</th>
-    <th>AI</th>
   </tr>
   <tr>
     <td>
-      <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" height="67"/> </a>
-    </td>
-    <td>
-      <div>
-        <table>
-          <tr>
-            <th>OOP</th>
-            <th>Procedural</th>
-            <th>Functional</th>
-          </tr>
-          <tr>
-            <td>
-              <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" height="50"/> </a>
-              <a href="https://openjdk.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" height="50"/> </a>
-            </td>
-            <td>
-              <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="golang" height="67"/> </a>
-            </td>
-            <td>
-              <a href="https://www.erlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-plain.svg" alt="erlang" height="50"/> </a>
-            </td>
-          </tr>
-        </table>
-      </div>
+      <a href="https://www.erlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-plain.svg" alt="erlang" height="50"/> </a>
+      <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" alt="elixir" height="50"/> </a>
+      <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="golang" height="50"/> </a>
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" height="50"/> </a>
     </td>
     <td>
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" height="50"/> </a>
       <a href="https://www.reactjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" height="50"/> </a>
       <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vitejs" height="50"/> </a>
-    </td>
-    <td>
-      <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" height="67"/> </a>
     </td>
   </tr>
 </table>
