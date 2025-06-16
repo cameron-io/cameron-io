@@ -21,22 +21,26 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 Stacks:
 
+
 <table>
   <tr>
     <th>Backend</th>
     <th>Frontend</th>
+    <th>Scripts</th>
   </tr>
   <tr>
     <td>
-      <a href="https://www.erlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-plain.svg" alt="erlang" height="50"/> </a>
-      <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" alt="elixir" height="50"/> </a>
-      <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="golang" height="50"/> </a>
-      <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" height="50"/> </a>
+      <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rust-lang/www.rust-lang.org/master/static/images/rust-social-wide-dark.svg" alt="rust"  height="40"/> </a>
+      <a href="https://www.erlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-plain.svg" alt="erlang" height="40"/> </a>
+      <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="go" height="40"/> </a>
     </td>
     <td>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" height="50"/> </a>
-      <a href="https://www.reactjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" height="50"/> </a>
-      <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vitejs" height="50"/> </a>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" height="40"/> </a>
+      <a href="https://www.reactjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" height="40"/> </a>
+      <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vitejs" height="40"/> </a>
+    </td>
+    <td>
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" height="40"/> </a>
     </td>
   </tr>
 </table>
