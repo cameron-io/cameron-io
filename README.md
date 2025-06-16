@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <tr>
     <th>Backend</th>
     <th>Frontend</th>
-    <th>Scripts</th>
+    <th>Script</th>
   </tr>
   <tr>
     <td>
