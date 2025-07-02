@@ -24,15 +24,19 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
+    <th>Lib</th>
     <th>Backend</th>
     <th>Frontend</th>
     <th>Script</th>
   </tr>
   <tr>
     <td>
+      <a href="https://www.gnu.org/software/libc/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" height="40"/> </a>
+    </td>
+    <td>
       <a href="https://www.erlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-plain.svg" alt="erlang" height="40"/> </a>
       <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="go" height="40"/> </a>
-      <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="rust"  height="40"/> </a>
+      <a href="https://www.elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" alt="elixir" height="40"/> </a>
     </td>
     <td>
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" height="40"/> </a>
