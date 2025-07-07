@@ -53,13 +53,16 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <th>Platforms</th>
+    <th>Cache</th>
+    <th>Events</th>
     <th>CI/CD</th>
     <th>Cloud</th>
   </tr>
   <tr>
     <td>
       <a href="https://www.redis.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" height="40"/> </a>
+    </td>
+    <td>
       <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" height="40"/> </a>
     </td>
     <td>
