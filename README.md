@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <th>Lib</th>
+    <th>Systems</th>
     <th>Backend</th>
     <th>Frontend</th>
     <th>Scripts</th>
