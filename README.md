@@ -21,35 +21,50 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 Stacks:
 
-
 <table>
   <tr>
-    <th>Systems</th>
-    <th>Backend</th>
-    <th>Frontend</th>
-    <th>Scripts</th>
+    <th>System 🖥️</th>
+    <th>Web Applications 🚀</th>
   </tr>
   <tr>
-    <td>
-      <a href="https://cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" height="40"/></a>
-      <a href="https://cmake.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" alt="cmake" height="40"/> </a>
-    </td>
-    <td>
-      <a href="https://jdk.java.net" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" height="40"/> </a>
-      <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="go" height="40"/> </a>
-      <a href="https://www.erlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-plain.svg" alt="erlang" height="40"/> </a>
-    </td>
-    <td>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" height="40"/> </a>
-      <a href="https://www.reactjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" height="40"/> </a>
-      <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vitejs" height="40"/> </a>
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" height="40"/> </a>
-    </td>
-    <td>
-      <a href="https://www.gnu.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" height="40"/> </a>
-      <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" height="40"/> </a>
-    </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="30"/><br/>
+  </a>
+  </td>
+  <td>
+    <table>
+      <tr>
+        <th>Full-Stack</th>
+        <th>Microservice</th>
+      </tr>
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <th>Language</th>
+              <th>Framework</th>
+            </tr>
+            <tr>
+              <td align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/><br/>
+              </td>
+              <td align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="30"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="30"/><br/>
+              </td>
+            </tr>
+          </table>
+        </td>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" width="30"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original-wordmark.svg" width="30"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-plain.svg" width="30"/><br/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="30"/><br/>
+        </td>
+      </tr>
+    </table>
+  </td>
   </tr>
 </table>
 
@@ -63,20 +78,20 @@ Here are some ideas to get you started:
     <th>Cloud</th>
   </tr>
   <tr>
-    <td>
-      <a href="https://www.redis.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" height="40"/> </a>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="30"/>
     </td>
-    <td>
-      <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" height="40"/> </a>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="30"/>
     </td>
-    <td>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" alt="github-actions" height="40"/> </a>
-      <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" height="40"/> </a>
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" height="40"/> </a>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" alt="github-actions" width="30"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="30"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="30"/>
     </td>
-    <td>
-      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" height="40"/> </a>
-      <a href="https://azure.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" height="40"/> </a>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="30"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="30"/>
     </td>
   </tr>
 </table>
