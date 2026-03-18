@@ -28,8 +28,20 @@ Here are some ideas to get you started:
   </tr>
   <tr>
   <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="30"/><br/>
+    <table>
+      <tr>
+        <th>Language</th>
+        <th>Build System</th>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/><br/>
+        </td>
+        <td align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="30"/>
+        </td>
+      </tr>
+    </table>
   </a>
   </td>
   <td>
@@ -57,10 +69,21 @@ Here are some ideas to get you started:
           </table>
         </td>
         <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" width="30"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original-wordmark.svg" width="30"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-plain.svg" width="30"/><br/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="30"/><br/>
+          <table>
+            <tr>
+              <th>Language</th>
+              <th>Framework</th>
+            </tr>
+            <tr>
+              <td align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" width="30"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-plain.svg" width="30"/><br/>
+              </td>
+              <td align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original-wordmark.svg" width="30"/>
+              </td>
+            </tr>
+          </table>
         </td>
       </tr>
     </table>
