@@ -31,18 +31,13 @@ Here are some ideas to get you started:
     <table>
       <tr>
         <th>Language</th>
-        <th>Build System</th>
       </tr>
       <tr>
         <td align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/>
-        </td>
-        <td align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="30"/>
+          <img src="https://raw.githubusercontent.com/rust-lang/www.rust-lang.org/master/static/images/rust-social-wide-dark.svg" width="75"/>
         </td>
       </tr>
     </table>
-  </a>
   </td>
   <td>
     <table>
