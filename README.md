@@ -47,8 +47,8 @@ Here are some ideas to get you started:
   <td>
     <table>
       <tr>
-        <th>Full-Stack</th>
-        <th>Microservice</th>
+        <th>Object-Oriented Programming</th>
+        <th>Functional Programming</th>
       </tr>
       <tr>
         <td>
