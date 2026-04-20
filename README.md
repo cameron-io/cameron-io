@@ -35,7 +35,7 @@ Here are some ideas to get you started:
       </tr>
       <tr>
         <td align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/><br/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/>
         </td>
         <td align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="30"/>
@@ -47,8 +47,9 @@ Here are some ideas to get you started:
   <td>
     <table>
       <tr>
-        <th>Object-Oriented Programming</th>
-        <th>Functional Programming</th>
+        <th>Procedural</th>
+        <th>Object-Oriented</th>
+        <th>Functional</th>
       </tr>
       <tr>
         <td>
@@ -59,12 +60,10 @@ Here are some ideas to get you started:
             </tr>
             <tr>
               <td align="center">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="30"/>
               </td>
               <td align="center">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" width="30"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="30"/>
+                <img src="https://camo.githubusercontent.com/1e582d2a3055b25b2ee59b0a12409a6a3ed257da854c8214f5f3c410c0be12fe/68747470733a2f2f63646e2e7261776769742e636f6d2f676f2d6368692f6368692f6d61737465722f5f6578616d706c65732f6368692e737667" width="30"/>
               </td>
             </tr>
           </table>
@@ -77,11 +76,26 @@ Here are some ideas to get you started:
             </tr>
             <tr>
               <td align="center">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" width="30"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
+              </td>
+              <td align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30"/>
+              </td>
+            </tr>
+          </table>
+        </td>
+        <td>
+          <table>
+            <tr>
+              <th>Language</th>
+              <th>Framework</th>
+            </tr>
+            <tr>
+              <td align="center">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-plain.svg" width="30"/>
               </td>
               <td align="center">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original-wordmark.svg" width="30"/>
+                :cowboy_hat_face:
               </td>
             </tr>
           </table>
@@ -115,7 +129,6 @@ Here are some ideas to get you started:
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="30"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="30"/>
     </td>
   </tr>
 </table>
