@@ -71,6 +71,7 @@ Here are some ideas to get you started:
             </tr>
             <tr>
               <td align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30"/>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
               </td>
               <td align="center">
