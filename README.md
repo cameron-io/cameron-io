@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <th>System 🖥️</th>
+    <th>Systems 🖥️</th>
     <th>Web Applications 🚀</th>
   </tr>
   <tr>
@@ -34,8 +34,8 @@ Here are some ideas to get you started:
       </tr>
       <tr>
         <td align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" alt="cmake" width="30"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25"/>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" alt="cmake" width="25"/>
         </td>
       </tr>
     </table>
@@ -48,9 +48,10 @@ Here are some ideas to get you started:
       </tr>
       <tr>
         <td align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="33"/>
+          <img src="https://raw.githubusercontent.com/rust-lang/www.rust-lang.org/master/static/images/rust-social-wide-dark.svg" alt="rust" width="60"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-plain.svg" width="30"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="30"/>
         </td>
         <td>
           <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="30"/>
@@ -70,6 +71,7 @@ Here are some ideas to get you started:
     <th>Cache</th>
     <th>Events</th>
     <th>CI/CD</th>
+    <th>Server</th>
     <th>Cloud</th>
   </tr>
   <tr>
@@ -83,6 +85,9 @@ Here are some ideas to get you started:
       <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" alt="github-actions" width="30"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="30"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="30"/>
+    </td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="60"/>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="30"/>
