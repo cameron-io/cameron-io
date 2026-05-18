@@ -48,10 +48,26 @@ Here are some ideas to get you started:
       </tr>
       <tr>
         <td align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="33"/>
-          <img src="https://raw.githubusercontent.com/rust-lang/www.rust-lang.org/master/static/images/rust-social-wide-dark.svg" alt="rust" width="60"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-plain.svg" width="30"/>
+          <table>
+            <tr>
+              <th>Low-Latency</th>
+              <th>Microservice</th>
+              <th>Full-Stack</th>
+            </tr>
+            <tr>
+              <td>
+                <img src="https://raw.githubusercontent.com/rust-lang/www.rust-lang.org/master/static/images/rust-social-wide-dark.svg" alt="rust" width="60"/>
+              </td>
+              <td>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-plain.svg" width="30"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="33"/>
+              </td>
+              <td>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="30"/>
+              </td>
+            </tr>
+          </table>
         </td>
         <td>
           <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="30"/>
