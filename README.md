@@ -23,23 +23,9 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <th>Systems 🖥️</th>
     <th>Web Applications 🚀</th>
   </tr>
   <tr>
-  <td align="center">
-    <table>
-      <tr>
-        <th>Language</th>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25"/>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" alt="cmake" width="25"/>
-        </td>
-      </tr>
-    </table>
-  </td>
   <td>
     <table>
       <tr>
@@ -52,6 +38,7 @@ Here are some ideas to get you started:
             <tr>
               <th>Low-Latency</th>
               <th>Microservices</th>
+              <th>Full-Stack</th>
             </tr>
             <tr>
               <td>
@@ -61,7 +48,11 @@ Here are some ideas to get you started:
               <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="30"/>
+              </td>
+              </td>
+              <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30"/>
               </td>
             </tr>
           </table>
