@@ -23,48 +23,18 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <th>Web Applications 🚀</th>
+    <th>Systems ⚙️</th>
+    <th>Servers 🚀</th>
   </tr>
   <tr>
-  <td>
-    <table>
-      <tr>
-        <th>Systems</th>
-        <th>Backend</th>
-        <th>Front-End</th>
-      </tr>
-      <tr>
-        <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="30"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="30"/>
-        </td>
-        <td align="center">
-          <table>
-            <tr>
-              <th>Microservices</th>
-              <th>Full-Stack</th>
-            </tr>
-            <tr>
-              <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-plain.svg" width="30"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="30"/>
-              </td>
-              </td>
-              <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="30"/>
-              </td>
-            </tr>
-          </table>
-        </td>
-        <td>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="30"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30"/>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vitejs" width="30"/>
-        </td>
-      </tr>
-    </table>
-  </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="40"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-plain-wordmark.svg" width="50"/>
+    </td>
   </tr>
 </table>
 
