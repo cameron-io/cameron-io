@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   <tr>
     <th>Systems ⚙️</th>
     <th>Servers 🚀</th>
+    <th>Data 📊</th>
   </tr>
   <tr>
     <td>
@@ -34,6 +35,8 @@ Here are some ideas to get you started:
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-plain-wordmark.svg" width="50"/>
+    </td>
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
     </td>
   </tr>
