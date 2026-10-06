@@ -29,8 +29,8 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="40"/>
+      <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" width="60"/>
+      <img src="https://micropython.org/static/img/Mlogo_138wh.png" width="40"/>
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50"/>
