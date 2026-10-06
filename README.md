@@ -34,6 +34,7 @@ Here are some ideas to get you started:
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-plain-wordmark.svg" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
     </td>
   </tr>
 </table>
@@ -45,7 +46,6 @@ Here are some ideas to get you started:
     <th>Cache</th>
     <th>Events</th>
     <th>CI/CD</th>
-    <th>Server</th>
     <th>Cloud</th>
   </tr>
   <tr>
@@ -57,11 +57,8 @@ Here are some ideas to get you started:
     </td>
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" alt="github-actions" width="30"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="30"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="30"/>
-    </td>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="60"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="docker" width="30"/>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="30"/>
